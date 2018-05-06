@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Interface Design: Chatbots"
-date:   2018-05-05 18:15:15 -0500
+title:  "Interface Design: Chatbots 💬"
+date:   2017-08-16 18:15:15 -0500
 categories:
 ---
+
+*📝 this post was originally written for [POP](https://www.iampop.in/), a platform for launching messenger bots*
 
 I’m not Theodore Twombly and I don’t want a robot girlfriend, I just want to check the weather.
 
