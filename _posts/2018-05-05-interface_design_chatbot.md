@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Interface Design: Chatbot"
+title:  "Interface Design: Chatbots"
 date:   2018-05-05 18:15:15 -0500
-categories: conversational
+categories:
 ---
 
 I’m not Theodore Twombly and I don’t want a robot girlfriend, I just want to check the weather.
