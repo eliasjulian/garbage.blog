@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interface Design: Chatbots"
+title:  "Interface Design: Chatbot"
 date:   2018-05-05 18:15:15 -0500
 categories: conversational
 ---
