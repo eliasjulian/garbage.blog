@@ -7,7 +7,7 @@ categories:
 
 I’m not Theodore Twombly and I don’t want a robot girlfriend, I just want to check the weather.
 
-![theodore twombly](images/theo.gif "theodore twombly")
+![theodore twombly]({{site.url}}{{site.baseurl}}/images/theo.gif "theodore twombly")
 
 My wife and I recently took a trip to the Republic of Ireland 🍀, and I decided to try out Kayak’s Facebook Messenger chatbot to see for myself just how practical the idea of a text-based conversational interface is when it comes to renting a car, a process that’s inevitably filled with nuance and a little confusion.
 
@@ -21,7 +21,7 @@ See Facebook Messenger integrations (like Kayak, BFF Trump), Slackbot, and many 
 
 *Anywho — let’s get into it, yes?*
 
-![kayak chatbot](images/kayakchat.png "kayak chatbot")
+![kayak chatbot](/images/kayakchat.png "kayak chatbot")
 
 *the process, more or less, in 4 screenshots*
 
@@ -36,7 +36,7 @@ See Facebook Messenger integrations (like Kayak, BFF Trump), Slackbot, and many 
 *It just feels bad & impersonal. I’ve had an inkling of this feeling before when I’ve ordered food through services like Postmates & Uber Eats, but not to this degree. I’ve gotten past it in that regard, because you always end up interacting with your delivery driver directly human-to-human. Something just feels different when it’s strictly human-to-machine interaction.*
 
 
-![quickdraw with google](images/quickdraw.png "quick draw with google")
+![quickdraw with google](/images/quickdraw.png "quick draw with google")
 
 ### Broad strokes
 
