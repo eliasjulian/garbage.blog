@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /garbage.blog/about/
+permalink: /about
 ---
 
 *I design and prototype digital products.* Currently a Senior Interactive Art Director at VML focusing on user-centered design and the connected consumer experience. From abstract color & form experiments to rethinking products through the lens of design, I enjoy the full spectrum of making.
